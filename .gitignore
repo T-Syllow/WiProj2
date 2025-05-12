@@ -1,0 +1,6 @@
+assets/data/*
+cards_data.csv
+reduced_transaction_data.csv
+users_data.csv
+train_fraud_labels.json
+mcc_codes.json
